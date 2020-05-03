@@ -1,6 +1,6 @@
 ### Moves my downloads automatically ###
 ### Author - Alec J. Davidson
-### Version .01
+### Version 1.0
 
 ### Imports ###
 import os  # Imports the use of the file system
