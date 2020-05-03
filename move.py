@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 ### Moves my downloads automatically ###
 ### Author - Alec J. Davidson
 ### Version 1.0

@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 ### Parses RSS feed and adds desired magnet links to qbtorrent ###
 ### Author - Alec J. Davidson
 ### Imports ###
