@@ -1,5 +1,2 @@
-parseFiles = ['test','entry']
-
-test = 'test' + parseFiles[0]
-
-print(test)
+#!/usr/bin/env python3
+print('test')

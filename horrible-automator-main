@@ -1,0 +1,2 @@
+#!/bin/bash
+while true ; do /home/adavidson/scripts/HorribleAutomatorDeployed/main.py ; sleep 5m ; done
